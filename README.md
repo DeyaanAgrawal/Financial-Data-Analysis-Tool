@@ -1,6 +1,3 @@
-# Financial-Data-Analysis-Tool
-A Python project analyzing business performance using NumPy
-
 # Financial Data Analysis Tool (Python, NumPy)
 
 This project analyzes monthly revenue and expenses to calculate profit, taxes, and profit margins using NumPy.  
