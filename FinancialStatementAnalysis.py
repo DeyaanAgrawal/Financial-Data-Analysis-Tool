@@ -1,3 +1,7 @@
+# Financial Data Analysis Tool
+# Author: Deyaan Agrawal – 12th Grade Student (Delhi/Ahmedabad)
+# Skills: Python, NumPy, Financial Logic
+
 import numpy as np
 
 #Data 
@@ -53,4 +57,5 @@ print(bad_months)
 print("Best Month :")
 print(best_month)
 print("Worst Month :")
+
 print(worst_month)
